@@ -1,1 +1,1 @@
-cd : Display current directory contents
+cd : Display current directory contents.
