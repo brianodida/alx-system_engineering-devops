@@ -1,1 +1,1 @@
-cd : Display current directory contents, including hidden files
+cd : Display current directory contents, including hidden files (starting with .). Use the long format.
